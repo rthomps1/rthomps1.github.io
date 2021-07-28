@@ -5,7 +5,7 @@ links:
   - label: Resume
     url: "https://docs.google.com/document/d/1b7ZhN2pv4-MwlIXsA88M4vdT6cvftA-8cyi9ez1AboY/edit"
   - label: Email
-    url: "rthomps1@swarthmore.edu" 
+    url: "mailto:rthomps1@swarthmore.edu" 
 output: postcards::trestles
 ---
 
