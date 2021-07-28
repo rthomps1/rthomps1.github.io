@@ -5,42 +5,42 @@
       "title": "Riley Thompson",
       "author": [],
       "contents": "\n\n          \n          \n          \n          \n           \n          \n          \n          Home\n          \n          \n          Summer Research\n           \n          ▾\n          \n          \n          Overview\n          IRT\n          Black Box Study\n          Repeatability Study\n          \n          \n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Riley Thompson\n            \n            \n              \n                \n                    \n                      \n                        Resume\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            About Me\n            Hello! My name is Riley Thompson (she/her) and I am a member of the Swarthmore College Class of 2022. My major is Mathematics with an Emphasis in Statistics with minors in Cognitive Science and Peace & Conflict Studies.\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Riley Thompson\n            \n            \n              \n                \n                                    \n                    \n                      Resume\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              About Me\n              Hello! My name is Riley Thompson (she/her) and I am a member of the Swarthmore College Class of 2022. My major is Mathematics with an Emphasis in Statistics with minors in Cognitive Science and Peace & Conflict Studies.\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-07-27T15:21:59-04:00"
+      "last_modified": "2021-07-28T10:21:09-04:00"
     },
     {
       "path": "blackbox.html",
       "title": "Getting to Know the Black Box Study",
       "author": [],
       "contents": "\nThe Purpose\nThe Black Box Study was performed to examine the accuracy of finger print analysts. Correct responses were recorded as individualizing mated pairs as well as excluding non-mated pairs. The researchers aimed to calculate the false positive and false negative rate of the examiners in the study.\nThe Results\nThe false positive rate was calculated to be 0.1% while the false negative rate was calculated at 7.5%. Additionally, 85% of examiners made a false negative conclusion in the study. This further raised questions about the decision making process and the use of analysts within the criminal justice system.\n\n\n\n",
-      "last_modified": "2021-07-27T15:21:59-04:00"
+      "last_modified": "2021-07-28T10:21:09-04:00"
     },
     {
       "path": "index.html",
       "title": "Welcome!",
       "author": [],
       "contents": "\nPlease explore this website to learn more about me, my summer research, and my interests!\n\n\n\n\n\n\n",
-      "last_modified": "2021-07-28T10:05:03-04:00"
+      "last_modified": "2021-07-28T10:21:15-04:00"
     },
     {
       "path": "irt.html",
       "title": "What is Item Response Theory?",
       "author": [],
       "contents": "\nItem Response Theory (IRT) traditionally is applied in standardized testing theory. IRT models the relationship between unobservable proficiency with observed performance. The probability that a student responds correctly depends upon their individual proficiency and the difficulty of the question. The Rasch model gives an equation for calculating the probability of a correct response:\n\\[P(X_{ni} = 1) = \\frac{\\exp(\\theta_n - b_i)}{1 + \\exp(\\theta_n - b_i)}\\]\nWhere \\(\\theta_n\\) is the proficiency associated with the \\(n^{th}\\) student and \\(b_i\\) is the difficulty associated with the \\(i^{th}\\) question. We can apply the same logic to finger prints analysts in testing situations. Each examiner receives a proficiency on their responses and each latent print is given a difficulty.\n\n\n\n",
-      "last_modified": "2021-07-27T15:22:01-04:00"
+      "last_modified": "2021-07-28T10:21:16-04:00"
     },
     {
       "path": "overview.html",
       "title": "Summer Research 2021",
       "author": [],
       "contents": "\nCurrently, I am working with Assistant Professor of Statistics, Amanda Luby, as well as four of my peers Thomas Daillak, Sherry Huang, Horace Shew, and Alyssa Zhang on forensic statistics research.\n\n\n\nGeneral Background\nFinger print analysts are making complex decisions when matching or not matching exemplar and latent prints. Latent prints are unintentional prints found on crime scenes while exemplar prints are taken under controlled conditions. In a real life situation, an analysts would receive a latent print and assess it for value. If a print has value, it is then compared to one or multiple exemplar prints to determine whether or not the there is a match.\nProject Overview\nItem Response Theory (IRT) can be utilized to model the decisions of analysts to predict the probability of a correct response given the examiner’s proficiency and the difficulty of the match. Bayesian statistics is utilized to update models with prior data to improve these predictions.\n\n\n\n",
-      "last_modified": "2021-07-27T15:22:01-04:00"
+      "last_modified": "2021-07-28T10:21:16-04:00"
     },
     {
       "path": "repeatability.html",
       "title": "Getting to Know the Repeatability Data Set",
       "author": [],
       "contents": "\nGeneral Information\nThe Black Box study left many questions about the variability between examiners as well as the inaccuracy of examiners. The repeatability study retested 25 examiners from the Black Box study on the same latent/exemplar pairs. The study collected the examiners initial and retest responses on variables such as the value of the prints, the comparison decision whether it was individualization, exclusion, or inconclusive, and the difficulty. This allowed researchers to compare the initial data to the retest data to examine the discrepancies.\nThe Results\nThe false positive rate (FPR) in the retest was 0% while the false negative rate (FNR) was 12.68%. In comparison to the Black Box study, the FPR decreased to 0% which is an improvement. The FNR however increased by approximately 5 percentage points. This is indicative of a worsening in performance by examiners. Many would expect an overall improvement upon retest, however the Repeatability study does not shown that examiners will improve upon a retest.\n\n\n\n",
-      "last_modified": "2021-07-27T15:22:02-04:00"
+      "last_modified": "2021-07-28T10:21:20-04:00"
     }
   ],
   "collections": []
