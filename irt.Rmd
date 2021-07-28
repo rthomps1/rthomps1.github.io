@@ -1,0 +1,19 @@
+---
+title: "What is Item Response Theory?"
+---
+
+
+Item Response Theory (IRT) traditionally is applied in standardized testing 
+theory. IRT models the relationship between unobservable proficiency with
+observed performance. The probability that a student responds correctly 
+depends upon their individual proficiency and the difficulty of the question. 
+The Rasch model gives an equation for calculating the probability of a correct
+response:
+
+$$P(X_{ni} = 1) = \frac{\exp(\theta_n - b_i)}{1 + \exp(\theta_n - b_i)}$$
+
+Where $\theta_n$ is the proficiency associated with the $n^{th}$ student and
+$b_i$ is the difficulty associated with the $i^{th}$ question. We can apply 
+the same logic to finger prints analysts in testing situations. Each examiner 
+receives a proficiency on their responses and each latent print is given a 
+difficulty.

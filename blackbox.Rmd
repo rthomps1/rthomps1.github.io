@@ -1,0 +1,18 @@
+---
+title: "Getting to Know the Black Box Study"
+---
+
+**The Purpose**
+
+The Black Box Study was performed to examine the accuracy of finger print 
+analysts. Correct responses were recorded as individualizing mated pairs as 
+well as excluding non-mated pairs. The researchers aimed to calculate the 
+false positive and false negative rate of the examiners in the study. 
+
+**The Results**
+
+The false positive rate was calculated to be 0.1% while the false negative 
+rate was calculated at 7.5%. Additionally, 85% of examiners made a false 
+negative conclusion in the study. This further raised questions about the 
+decision making process and the use of analysts within the criminal justice 
+system.

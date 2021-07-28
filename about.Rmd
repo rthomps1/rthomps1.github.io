@@ -1,0 +1,17 @@
+---
+title: "Riley Thompson"
+image: "pic.jpg"
+links:
+  - label: Resume
+    url: "https://docs.google.com/document/d/1b7ZhN2pv4-MwlIXsA88M4vdT6cvftA-8cyi9ez1AboY/edit"
+  - label: Email
+    url: "rthomps1@swarthmore.edu" 
+output: postcards::trestles
+---
+
+## About Me
+
+Hello! My name is Riley Thompson (she/her) and I am 
+a member of the Swarthmore College Class of 2022. My major is Mathematics with 
+an Emphasis in Statistics with minors in Cognitive Science and Peace & Conflict
+Studies.

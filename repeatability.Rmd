@@ -1,0 +1,24 @@
+---
+title: "Getting to Know the Repeatability Data Set"
+---
+
+
+**General Information**
+
+The Black Box study left many questions about the variability between
+examiners as well as the inaccuracy of examiners. The repeatability study 
+retested 25 examiners from the Black Box study on the same latent/exemplar 
+pairs. The study collected the examiners initial and retest responses on 
+variables such as the value of the prints, the comparison decision whether 
+it was individualization, exclusion, or inconclusive, and the difficulty. This 
+allowed researchers to compare the initial data to the retest data to examine 
+the discrepancies. 
+
+**The Results**
+
+The false positive rate (FPR) in the retest was 0% while the false negative
+rate (FNR) was 12.68%. In comparison to the Black Box study, the FPR decreased
+to 0% which is an improvement. The FNR however increased by approximately 5 
+percentage points. This is indicative of a worsening in performance by 
+examiners. Many would expect an overall improvement upon retest, however the 
+Repeatability study does not shown that examiners will improve upon a retest.

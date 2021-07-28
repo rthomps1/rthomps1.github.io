@@ -1,0 +1,20 @@
+---
+title: "Welcome!"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(knitr)
+library(graphics)
+library(bookdown)
+```
+
+Please explore this website to learn more about me, my summer research,
+and my interests! 
+
+```{r}
+include_graphics("swat.png")
+```
+
+

@@ -1,0 +1,26 @@
+name: "RTWeb"
+title: " "
+description: |
+  RileysWebsite
+output_dir: "docs"
+navbar:
+  search: true
+  logo:
+    image: logo.png
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Summer Research"
+      menu:
+        - text: "Overview"
+          href: overview.html
+        - text: "IRT"
+          href: irt.html
+        - text: "Black Box Study"
+          href: blackbox.html
+        - text: "Repeatability Study"
+          href: repeatability.html
+    - text: "About"
+      href: about.html
+theme: theme.css 
+output: distill::distill_article
